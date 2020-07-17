@@ -9,4 +9,7 @@ CREDITS:
 
 
 
-Example Picture: https://prnt.sc/tjv13d
+Example Picture: https://prnt.sc/tjv13d ( Notepad )
+
+
+Task manager: https://prnt.sc/tjv307

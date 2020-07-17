@@ -13,3 +13,6 @@ Example Picture: https://prnt.sc/tjv13d ( Notepad )
 
 
 Task manager: https://prnt.sc/tjv307
+
+
+Note: Run the program (.exe) as admin in order to "bypass" the control flow guard by windows

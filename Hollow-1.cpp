@@ -45,12 +45,24 @@ int main()
 {
 
 	system("start Notepad.exe");
+	//IN ORDERE TO USE IT FOR TASK MANAGER: system("start Taskmgr.exe");
+
 	Sleep(900); //wait for notepad to get starded
+	
+	
 	//InjectDLL(PID("Unbenannt - Editor")); /IGNORE - Only for german pc's 
   
-  // You should add a language switch using an if statement.
-  
+        // You should add a language switch using an if statement.
+	
+	
+  	//IN ORDERE TO USE IT FOR TASK MANAGER: InjectDLL(PID("Task Manager"));
+
 	InjectDLL(PID("Untitled - Notepad")); //- Input any windows process here, you can use: Regedit, Taskmanager, RegASM and much more.
+	
+	
+	
+	
+	
 	return 0;
 
 }

@@ -12,11 +12,8 @@ VOID main()
 {
 	AllocConsole(); //alocate console to the remote thread
 	FILE* f; //Create File Pointer
-		//freopen_s(&f, "CONOUT$", "w", stdout); //Setup some console shit to allow for output and user input
-	//freopen_s(&f, "CONIN$", "r", stdin);
-	//freopen_s(&f, "CONOUT$", "w", stderr);
 	system("color b"); //Not the best way of changing the console color, but what ever
-	system("echo Hey");
+	system("echo Hey"); //just a simple text to test it
 
 
 	Sleep(2000);

@@ -16,7 +16,6 @@ VOID main()
 	//freopen_s(&f, "CONIN$", "r", stdin);
 	//freopen_s(&f, "CONOUT$", "w", stderr);
 	system("color b"); //Not the best way of changing the console color, but what ever
-	SetConsoleTitle(L"MajorCC"); //Set the console title
 	system("echo Hey");
 
 
